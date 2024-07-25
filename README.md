@@ -1,4 +1,11 @@
 # Driving School Schedule App
+## Contents
+1. Overview
+2. Key Features
+3. Why It's Useful
+4. Getting Started
+5. Members
+
 ## Overview
 This Flutter mobile app project serves as a scheduling tool designed specifically for students and instructors of a certain driving school. It allows users to efficiently manage their schedules, making it easier to track progress and stay organized.
 
