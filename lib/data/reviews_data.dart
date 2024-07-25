@@ -10,7 +10,6 @@ class Review {
   });
 }
 
-// Example list of reviews
 List<Review> reviews = [
   Review(
     title: 'Great Instructor!',
